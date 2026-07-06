@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.video_finder_runs/
+.video_finder_demo/
+*.pyc
+.env
+.DS_Store
+input_video/
